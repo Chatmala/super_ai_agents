@@ -56,3 +56,10 @@ out/
 tmp/
 temp/
 .aider*
+# Aider-related files
+.aider*
+.aider.*
+.aider*.*
+*/.aider*
+*/.aider.*
+*/.aider*.*
